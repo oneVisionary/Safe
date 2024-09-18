@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "797144928326",
+    "project_id": "safezone-973d7",
+    "storage_bucket": "safezone-973d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:797144928326:android:330e8b42a0dbd9fd3f7a47",
+        "android_client_info": {
+          "package_name": "com.example.safe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhDIpQKaBLuhFOQeJBIu_oqMScf-2NKNo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
